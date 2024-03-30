@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/A1.unity
+    guid: 1727e74daa2c28c4e87b0974c0782d2d
+  - enabled: 0
+    path: Assets/Scenes/A2.unity
+    guid: 183b477782890ff4786a8b8164eb0fa3
+  - enabled: 0
+    path: Assets/Scenes/A3.unity
+    guid: 91c0696afbaf0b8498554e43b1938200
+  - enabled: 0
+    path: Assets/Scenes/B1.unity
+    guid: 06fc61b70dc5e694dbe6840fec1a47f4
+  - enabled: 0
+    path: Assets/Scenes/B2.unity
+    guid: 71ec7571b6e3d2d479611eba212ae1a5
+  - enabled: 0
+    path: Assets/Scenes/B3.unity
+    guid: 6495f2f5a8a8ab147a1bfd7a0862c82e
+  - enabled: 0
+    path: Assets/Scenes/C1.unity
+    guid: ee0025ed6beb78344b193c0ae457505a
+  - enabled: 0
+    path: Assets/Scenes/C2.unity
+    guid: 3553b04c901a5364f8e9e245ac0f4bda
+  - enabled: 0
+    path: Assets/Scenes/C3.unity
+    guid: faf7f76f737757443b64c61f160885a3
+  - enabled: 0
+    path: Assets/Scenes/end.unity
+    guid: a6392b64a48222a4f98d441dc0a68a2c
+  - enabled: 0
+    path: Assets/Scenes/end2.unity
+    guid: 287d1cdd5a43a814b84df879f9e9f37c
+  - enabled: 1
+    path: Assets/MRTK/Examples/Demos/UX/Dialog/Scenes/Identity Select.unity
+    guid: 09237bd056a3a564a8ff5474ff7e2c42
+  - enabled: 1
+    path: Assets/MRTK/Examples/Demos/UX/Dialog/Scenes/SignLens.unity
+    guid: 245313338ea69944ab8e537d014475a6
+  m_configObjects: {}

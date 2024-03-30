@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/MRTK/Examples/Demos/UX/Dialog/Scenes/SignLens.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
