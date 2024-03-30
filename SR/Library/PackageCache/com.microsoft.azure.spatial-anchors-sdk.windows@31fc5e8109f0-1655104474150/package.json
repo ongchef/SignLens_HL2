@@ -1,0 +1,21 @@
+{
+  "name": "com.microsoft.azure.spatial-anchors-sdk.windows",
+  "displayName": "Azure Spatial Anchors SDK for Windows",
+  "msftFeatureCategory": "Azure Mixed Reality Services",
+  "version": "2.7.1",
+  "unity": "2019.4",
+  "description": "Unity Windows SDK for Azure Spatial Anchors",
+  "author": "Microsoft",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azure/azure-spatial-anchors-samples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Azure/azure-spatial-anchors-samples/issues"
+  },
+  "homepage": "https://github.com/Azure/azure-spatial-anchors-samples#readme",
+  "hideInEditor": false,
+  "dependencies": {
+    "com.microsoft.azure.spatial-anchors-sdk.core": "2.7.1"
+  }
+}

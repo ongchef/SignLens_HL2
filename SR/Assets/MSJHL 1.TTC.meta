@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: de4918b7c2acf0d418848e2599d94480
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Microsoft JhengHei
+  fontNames:
+  - Microsoft JhengHei
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 54e9e701f59b0a442be1ffe817abed1e, type: 3}
+  - {fileID: 12800000, guid: d1e6fe937eb0eac4eb0a045f1cec6aff, type: 3}
+  - {fileID: 12800000, guid: 6fbdc6571790001418b41c0517ac2132, type: 3}
+  - {fileID: 12800000, guid: c6674d0ac081a5d46932a4208e3d16a0, type: 3}
+  - {fileID: 12800000, guid: 9a12053f9c1665c42a2f86401b9d5c0f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
