@@ -14,9 +14,9 @@ Our objective was to create a sign language translation system to improve commun
 
 
 ## Demo
+![image](聽人使用者視角.gif)
+![image](聽障使用者視角.gif)
 
-{gif1}
-{gif2}
 
 ## Approach
 
@@ -33,7 +33,7 @@ After evaluating various machine learning methodologies, we chose the Recurrent 
 
 ### Model Development and MR Integration
 
-We successfully developed a GRU-based model and integrated it with the HoloLens 2 mixed reality headset. This allows users to see sign language interpretation subtitles and facial expressions in real-time, enhancing the system's interactivity, mobility, and convenience.
+We successfully developed a GRU-based model and integrated it with the HoloLens 2 mixed-reality headset. This allows users to see sign language interpretation subtitles and facial expressions in real time, enhancing the system's interactivity, mobility, and convenience.
 
 ## Results
 
@@ -45,16 +45,16 @@ Our system translates sign language video clips and audio into subtitles with th
 This project has won first place in the International ICT Innovative Services Awards 2022 and the departmental IS project competition, demonstrating its innovation and scalability.
 
 ## How to Use
-
-[Include instructions on how to set up, install, and use the system.]
-
+Using Unity 2020.3 LTS
+The whole project contains 2 Unity Projects
+SLR (Sign Language Recognition)
+SR  (Speech Recognition)
+The Scene is in UX/Dialog Folder
+Be sure to import the Azure Spatial Anchor SDK and tgz file in Unity project
 ## Contributing
 
 We welcome contributions from the community. Please refer to our contributing guidelines for more information on how to get involved.
 
-## License
-
-[Specify the license under which the project is released.]
 
 ## Acknowledgments
 
