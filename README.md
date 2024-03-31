@@ -10,7 +10,8 @@ Our objective was to create a sign language translation system to improve commun
 
 ## System Architecture
 
-{Figure of System Architecture}
+![image](SignLens-System_Architecture.jpeg)
+
 
 ## Demo
 
