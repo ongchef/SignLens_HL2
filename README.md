@@ -15,6 +15,8 @@ Our objective was to create a sign language translation system to improve commun
 
 ## Demo
 ![image](聽人使用者視角.gif)
+
+
 ![image](聽障使用者視角.gif)
 
 
