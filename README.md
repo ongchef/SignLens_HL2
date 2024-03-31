@@ -48,10 +48,20 @@ This project has won first place in the International ICT Innovative Services Aw
 
 ## How to Use
 Using Unity 2020.3 LTS
+
+
 The whole project contains 2 Unity Projects
+
+
 SLR (Sign Language Recognition)
+
+
 SR  (Speech Recognition)
+
+
 The Scene is in UX/Dialog Folder
+
+
 Be sure to import the Azure Spatial Anchor SDK and tgz file in Unity project
 ## Contributing
 
